@@ -1,0 +1,3 @@
+  public static void main(String[] args) {
+    String str1 = "Java String contains()";
+    boolean result = str1.contains("Java");
